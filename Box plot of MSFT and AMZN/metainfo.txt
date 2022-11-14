@@ -1,0 +1,15 @@
+
+Name of Quantlet: 'Box plot of MSFT and AMZN'
+
+Description: 'Boxplot of distance between MSFT and AMZN of 167 rolling wondows. Each window size is 500 days.'
+
+Submitted:  '14 Nov 2022'
+
+Keywords: 
+- 'Boxplot'
+- 'Distance'
+- 'Microsoft'
+- 'Amazon'
+
+Author: 
+- 'Zijin Wang'
