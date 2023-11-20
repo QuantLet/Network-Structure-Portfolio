@@ -1,4 +1,4 @@
-# Network-Structure-Portfolio
+# A Network View on a Portfolio Risk Decomposition
 
 [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="880" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
 
