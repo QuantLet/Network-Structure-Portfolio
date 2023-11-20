@@ -20,3 +20,32 @@ Requirements
 ----
 R, Gephi
   
+R version 4.1.2
+
+Packages:
+
+magick_2.7.3
+glasso_1.11
+MST_2.2
+MTS_1.1.1
+Matrix_1.3-4
+pracma_2.3.8
+limSolve_1.5.6
+quantmod_0.4.18
+nlshrink_1.0.1
+ROI.plugin.glpk_1.0-0
+ROI.plugin.quadprog_1.0-0
+fPortfolio_3042.83.1
+tidyr_1.2.0
+ggpubr_0.4.0
+readxl_1.4.0
+quadprog_1.5-8
+igraph_1.2.11
+RiskPortfolios_2.1.7
+plotly_4.10.0
+ggplot2_3.4.3
+timeSeries_3062.100
+PerformanceAnalytics_2.0.4
+PortfolioAnalytics_1.1.0
+xts_0.12.1
+zoo_1.8-10
