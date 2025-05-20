@@ -1,0 +1,9 @@
+Name of QuantLet: Gephi project
+
+Published in: Network Strucutre Portfolio 
+
+Description: 'This file provides Gephi code to produce MST of S&P 500 components. You can directly open the MST_SP500.gephi file in Gephi and get your desired graph.'
+
+Keywords: Gephi, MST, S&P 500, graph 
+
+Author: Zijin Wang
