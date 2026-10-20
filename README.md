@@ -12,12 +12,12 @@ Description: Consider stocks as network, and the centrality of stocks changes ov
 Submitted: 18 Oct 2022
 
 Keywords: 
-- 'Network structure
-- 'Markowitz portfolio
-- 'Eigenvector centrality
-- 'High-dimensionality estimation
+- Network structure
+- Markowitz portfolio
+- Eigenvector centrality
+- High-dimensionality estimation
 
 Author: 
-- 'Zijin Wang
+- Zijin Wang
 
 ```
